@@ -1,16 +1,14 @@
-# Make It Real - API con PostgreSQL y Express
+# titulo
 
-This is the backend repository of Red social HYL
+normalizado listo para crear el proyecto
 
 ## Description
 
-the credential to use the backend is:
 
-- ask to owner to see the render server
 
 ## How to use
 
-Use postman to test the API
+clonar
 
 ## Author
 
@@ -18,4 +16,4 @@ Guillermo Alexander Herrera Rodriguez
 
 ## Acknowledgments
 
-Thanks to Make it Real to show me a path to become a better programmer
+
